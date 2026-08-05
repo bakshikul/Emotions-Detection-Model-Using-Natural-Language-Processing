@@ -216,7 +216,7 @@ Predicted Emotion
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Emotion-Detection-NLP.git
+https://github.com/bakshikul/Emotions-Detection-Model-Using-Natural-Language-Processing.git
 ```
 
 ### 2. Navigate to the Project Directory
