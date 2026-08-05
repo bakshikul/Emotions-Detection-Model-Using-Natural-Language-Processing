@@ -60,8 +60,6 @@ Typical examples include:
 * 😲 Surprise
 * ❤️ Love
 
-> The exact emotion classes depend on the dataset used for training the model.
-
 ---
 
 ## 🏗️ Project Architecture
@@ -111,10 +109,7 @@ Emotion-Detection-NLP/
 ├── emotionsNLP.ipynb
 ├── train.txt
 ├── NLP_Emotions_model/
-│
-├── requirements.txt
 ├── README.md
-└── screenshots/
 ```
 
 ### File Description
@@ -124,8 +119,7 @@ Emotion-Detection-NLP/
 | `app.py`              | Streamlit application for emotion prediction      |
 | `emotionsNLP.ipynb`   | Data preprocessing, model training and evaluation |
 | `train.txt`           | Training dataset                                  |
-| `NLP_Emotions_model/` | Saved trained NLP/ML model and related artifacts  |
-| `requirements.txt`    | Required Python libraries                         |
+| `NLP_Emotions_model/` | Saved trained NLP/ML model and related artifacts  |                        |
 | `README.md`           | Project documentation                             |
 
 ---
