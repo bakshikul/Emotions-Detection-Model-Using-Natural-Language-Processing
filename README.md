@@ -207,7 +207,6 @@ Predicted Emotion
 * **Joblib** – Saving and loading trained models
 * **Streamlit** – Web application development
 
-> The exact dependencies may vary depending on the implementation in the notebook.
 
 ---
 
